@@ -8,7 +8,7 @@ Contests and problems from Codeforces solved with Python by [@jamerrq](https://j
 
 | Contest | Date | Rank | Solved | Code | Rating Change |
 |---------|------|------|--------|--------|---------------|
-| [Codeforces Round 952 (Div. 4)](https://codeforces.com/contest/1985) | 2024-06-13 | 21% | 5(1✞) / 9 | [1985](src/1985/) | -1 |
+| [Codeforces Round 952 (Div. 4)](https://codeforces.com/contest/1985) | 2024-06-13 | 21% | 5 (1✞) / 9 | [1985](src/1985/) | -1 |
 
 ✞: Solved after the contest
 
